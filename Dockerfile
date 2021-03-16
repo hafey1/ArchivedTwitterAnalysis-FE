@@ -7,4 +7,8 @@ ENV PATH ./node_modules/.bin:$PATH
 COPY package.json ./
 COPY yarn.lock ./
 
-RUN yarn start
+RUN yarn install
+
+COPY . ./
+
+CMD ["yarn", "start"]
