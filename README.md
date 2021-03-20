@@ -1,3 +1,6 @@
+# Archived #
+** currently maintained as a service of [Twitter Analysis](https://github.com/hafey1/Twitter-Analysis)**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
