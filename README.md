@@ -1,5 +1,5 @@
-# Archived #
-** currently maintained as a service of [Twitter Analysis](https://github.com/hafey1/Twitter-Analysis)**
+# *Archived* 
+# *Currently maintained as a service of [Twitter Analysis](https://github.com/hafey1/Twitter-Analysis)*
 
 # Getting Started with Create React App
 
